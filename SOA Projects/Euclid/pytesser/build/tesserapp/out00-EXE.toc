@@ -1,0 +1,9 @@
+('D:\\SOA Projects\\Euclid\\pytesser\\dist\\tesserapp.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1382805225L)
